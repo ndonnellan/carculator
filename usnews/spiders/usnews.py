@@ -1,6 +1,7 @@
 from scrapy.spider import BaseSpider
 from scrapy.selector import HtmlXPathSelector
 from scrapy.http.request import Request
+import sqlite3 
 
 import re
 
@@ -15,9 +16,21 @@ class UsnewsSpider(BaseSpider):
 
 	def __init__(self):
 		self.file = open('dump.txt','w+')
+		# connect to database
+		#self.db = sqlite3.connect('car_data.db')
+		# create a table to hold the data
+		#table_create_string = "create table if not exists car_data" +\
+		#	"(model, mpg_city default 'NA', mpg_hwy default 'NA', cost)"
+		#index_create_string = "create index if not exists car_data_index on car_data" +\
+		#	"(model, cost)"
+		#db.execute(table_create_string)
+		#db.execute(index_create_string)
 
 	def __del__(self):
 		self.file.close()
+		# commit any changes and close the database
+		#self.db.commit()
+		#self.db.close()
 
 	def parse(self, response):
 		hxs = HtmlXPathSelector(response)
@@ -56,10 +69,11 @@ class UsnewsSpider(BaseSpider):
 			else:
 				# Use average paid
 				cost_str = cost_list[m][0]
-
+			
+			#insert_string = "insert into car_data (model, mpg_city, mpg_hwy, cost) " +\
+			#	"values (?, ?, ?, ?)"
+			#self.db.execute(insert_string, (models[m], mpg_city[m], mpg_hwy[m], cost_str))
+			
 			self.file.write(models[m] + ": " + mpg_city[m] + " city / " \
 				+ mpg_hwy[m] + " hwy, " \
 				+ cost_str + '\n')
-
-
-
