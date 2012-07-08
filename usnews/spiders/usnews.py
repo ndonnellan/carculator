@@ -8,6 +8,29 @@ import re
 mpg_regex = re.compile(r'\s(?P<city>\d+).*City\s/\s(?P<hwy>\d+).*Hwy')
 cost_regex = re.compile(r'Avg\. Paid:\s.+\>(.+)/<|MSRP:\s(.+)\<')
 
+class car_db_interface:
+	def __init__(self):
+		self.db = sqlite3.connect('car_data.db')
+
+		# create a table to hold the data
+		table_create_string = "create table if not exists car_data" +\
+			"(model, mpg_city default 'NA', mpg_hwy default 'NA', cost)"
+		index_create_string = "create index if not exists car_data_index on car_data" +\
+			"(model, cost)"
+		self.db.execute(table_create_string)
+		self.db.execute(index_create_string)
+
+	def __del__(self):
+		# commit any changes and close the database
+		self.db.commit()
+		self.db.close()
+
+	def add_cars(self, model, mpg_city, mpg_hwy, cost_list):
+		for m in range(len(model)):
+			insert_string = "insert into car_data (model, mpg_city, mpg_hwy, cost) " +\
+				"values (?, ?, ?, ?)"
+			self.db.execute(insert_string, (model[m], mpg_city[m], mpg_hwy[m], cost_list[m]))
+
 class UsnewsSpider(BaseSpider):
 	name = "usnews"
 	allowed_domains = ["rankingsandreviews.com"]
@@ -15,22 +38,10 @@ class UsnewsSpider(BaseSpider):
 	base_url = "http://usnews.rankingsandreviews.com"
 
 	def __init__(self):
-		self.file = open('dump.txt','w+')
+		#self.file = open('dump.txt','w+')
 		# connect to database
-		#self.db = sqlite3.connect('car_data.db')
-		# create a table to hold the data
-		#table_create_string = "create table if not exists car_data" +\
-		#	"(model, mpg_city default 'NA', mpg_hwy default 'NA', cost)"
-		#index_create_string = "create index if not exists car_data_index on car_data" +\
-		#	"(model, cost)"
-		#db.execute(table_create_string)
-		#db.execute(index_create_string)
+		self.car_db = car_db_interface()
 
-	def __del__(self):
-		self.file.close()
-		# commit any changes and close the database
-		#self.db.commit()
-		#self.db.close()
 
 	def parse(self, response):
 		hxs = HtmlXPathSelector(response)
@@ -52,6 +63,7 @@ class UsnewsSpider(BaseSpider):
 
 		mpg_city = []
 		mpg_hwy = []
+		cost_str_list = []
 		
 		for m in range(len(models)):
 			mpg_res = mpg_regex.search(mpg_str[m])
@@ -65,15 +77,10 @@ class UsnewsSpider(BaseSpider):
 
 			if not cost_list[m][0]:
 				# Only MSRP available
-				cost_str = cost_list[m][1] + "(MSRP)"
+				cost_str_list.append(cost_list[m][1] + "(MSRP)")
 			else:
 				# Use average paid
-				cost_str = cost_list[m][0]
+				cost_str_list.append(cost_list[m][0])
 			
-			#insert_string = "insert into car_data (model, mpg_city, mpg_hwy, cost) " +\
-			#	"values (?, ?, ?, ?)"
-			#self.db.execute(insert_string, (models[m], mpg_city[m], mpg_hwy[m], cost_str))
+		self.car_db.add_cars(models, mpg_city, mpg_hwy, cost_str_list)
 			
-			self.file.write(models[m] + ": " + mpg_city[m] + " city / " \
-				+ mpg_hwy[m] + " hwy, " \
-				+ cost_str + '\n')
