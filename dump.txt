@@ -1,0 +1,243 @@
+Volvo C30: 21 city / 29 hwy, $24,711 - $31,254
+Volvo C70: 18 city / 28 hwy, $40,450 - $44,050(MSRP)
+Volvo S60: 20 city / 30 hwy, $31,064 - $42,325
+Volvo S80: 20 city / 29 hwy, $36,646 - $43,833
+Volvo XC60: 19 city / 25 hwy, $32,885 - $47,031
+Volvo XC70: 19 city / 25 hwy, $32,009 - $42,068
+Suzuki Equator: 19 city / 23 hwy, $18,357 - $29,937
+Suzuki Grand Vitara: 19 city / 26 hwy, $20,097 - $25,742
+Suzuki Kizashi: 21 city / 31 hwy, $19,384 - $27,910
+Ram 1500: 14 city / 20 hwy, $22,589 - $45,378
+Scion FR-S: 22 city / 30 hwy, $25,127 - $26,236
+Scion iQ: 36 city / 37 hwy, $15,980 - $15,980
+Scion tC: 23 city / 31 hwy, $19,384 - $20,388
+Scion xB: 22 city / 28 hwy, $17,325 - $18,292
+Volkswagen Beetle: 22 city / 31 hwy, $19,266 - $29,080
+Volkswagen CC: 21 city / 31 hwy, $27,619 - $38,893
+Volkswagen Eos: 22 city / 30 hwy, $33,496 - $38,475
+Volkswagen Golf: 23 city / 33 hwy, $18,075 - $29,080
+Volkswagen GTI: 21 city / 31 hwy, $23,774 - $31,168
+Volkswagen Jetta: 24 city / 34 hwy, $15,693 - $26,199
+Volkswagen Jetta SportWagen: 22 city / 30 hwy, $20,254 - $28,952
+Volkswagen Passat: 22 city / 32 hwy, $20,833 - $32,874
+Volkswagen Routan: 17 city / 25 hwy, $27,131 - $43,672
+Volkswagen Tiguan: 18 city / 26 hwy, $22,681 - $35,183
+Volkswagen Touareg: 16 city / 23 hwy, $42,576 - $57,192
+Toyota 4Runner: 17 city / 23 hwy, $30,502 - $39,637
+Toyota Avalon: 19 city / 28 hwy, $31,993 - $35,041
+Toyota Camry: 25 city / 35 hwy, $21,801 - $29,050
+Toyota Camry Hybrid: 43 city / 39 hwy, $25,654 - $27,103
+Toyota Corolla: 27 city / 34 hwy, $16,254 - $18,621
+Toyota FJ Cruiser: 17 city / 22 hwy, $26,094 - $27,654
+Toyota Highlander: 20 city / 25 hwy, $27,419 - $35,892
+Toyota Highlander Hybrid: 28 city / 28 hwy, $39,035 - $44,209
+Toyota Land Cruiser: 13 city / 18 hwy, $64,684 - $64,684
+Toyota Matrix: 26 city / 32 hwy, $18,872 - $21,939
+Toyota Prius: 51 city / 48 hwy, $23,015 - $39,525(MSRP)
+Toyota Prius c: 53 city / 46 hwy, $19,645 - $23,911
+Toyota Prius V: 44 city / 40 hwy, $26,859 - $30,390
+Toyota RAV4: 22 city / 28 hwy, $22,641 - $28,445
+Toyota Sequoia: 14 city / 20 hwy, $39,884 - $59,770
+Toyota Sienna: 19 city / 24 hwy, $24,637 - $39,019
+Toyota Tacoma: 21 city / 25 hwy, $17,528 - $28,113
+Toyota Tundra: 16 city / 20 hwy, $25,727 - $43,224
+Toyota Venza: 21 city / 27 hwy, $27,136 - $36,696
+Subaru BRZ: 22 city / 30 hwy, $26,793 - $29,956
+Subaru Forester: 21 city / 27 hwy, $20,229 - $29,035
+Subaru Impreza: 25 city / 34 hwy, $17,745 - $22,616
+Subaru Legacy: 19 city / 27 hwy, $19,642 - $30,245
+Subaru Outback: 19 city / 27 hwy, $22,716 - $30,669
+Lincoln MKS: 17 city / 25 hwy, $40,378 - $46,933
+Lincoln MKT: 17 city / 24 hwy, $42,522 - $44,424
+Lincoln MKX: 19 city / 26 hwy, $37,931 - $39,689
+Lincoln MKZ: 18 city / 27 hwy, $33,928 - $35,745
+Lincoln MKZ Hybrid: 41 city / 36 hwy, $33,842 - $33,842
+Mitsubishi Eclipse: 20 city / 28 hwy, $19,711 - $32,365
+Mitsubishi Galant: 21 city / 30 hwy, $22,586 - $24,968
+Mitsubishi i: NA city / NA hwy, $30,122 - $32,132
+Mitsubishi Lancer: 25 city / 34 hwy, $16,280 - $28,427
+Mitsubishi Outlander: 23 city / 28 hwy, $22,479 - $27,893
+Porsche 911 Carrera: 19 city / 27 hwy, $80,636 - $105,561
+Porsche Boxster: 20 city / 30 hwy, $49,500 - $60,900(MSRP)
+Porsche Cayenne: 15 city / 22 hwy, $48,215 - $105,980
+Porsche Cayenne Hybrid: 20 city / 24 hwy, $68,614 - $68,614
+Porsche Cayman: 19 city / 27 hwy, $52,037 - $67,093
+Porsche Panamera: 18 city / 27 hwy, $73,402 - $92,705
+Mazda CX-5: 26 city / 35 hwy, $21,538 - $29,165
+Mazda CX-7: 20 city / 27 hwy, $21,601 - $33,307
+Mazda CX-9: 17 city / 24 hwy, $28,611 - $33,683
+Mazda Mazda5: 21 city / 28 hwy, $19,300 - $23,458
+Mazda Mazda6: 21 city / 30 hwy, $20,180 - $29,051
+Mazda MX-5 Miata: 21 city / 28 hwy, $22,874 - $29,077
+Mazda2: 29 city / 35 hwy, $14,984 - $17,263
+Mini Cooper: 29 city / 37 hwy, $19,788 - $35,123
+Mini Cooper Clubman: 27 city / 35 hwy, $21,505 - $31,523
+Mini Cooper Countryman: 27 city / 35 hwy, $22,165 - $27,406
+Mini Cooper Coupe: 29 city / 37 hwy, $21,614 - $31,342
+Lexus CT 200h: 43 city / 40 hwy, $29,276 - $31,843
+Lexus ES: 19 city / 28 hwy, $35,599 - $35,599
+Lexus GS: 19 city / 28 hwy, $46,625 - $49,147
+Lexus GS Hybrid: 32 city / 28 hwy, $59,500 - $59,500
+Lexus GX: 15 city / 20 hwy, $52,446 - $57,094
+Lexus HS: 35 city / 34 hwy, $35,736 - $38,230
+Lexus IS: 19 city / 28 hwy, $33,065 - $47,061
+Lexus LFA: 11 city / 16 hwy, $375,000 - $375,000(MSRP)
+Lexus LS: 16 city / 24 hwy, $65,595 - $73,134
+Lexus LS Hybrid: 19 city / 23 hwy, $107,987 - $107,987
+Lexus LX: NA city / NA hwy, NA (MSRP)
+Lexus RX 350: 18 city / 25 hwy, $37,589 - $38,922
+Jeep Compass: 23 city / 29 hwy, $20,367 - $26,803
+Jeep Grand Cherokee: 17 city / 23 hwy, $27,133 - $55,068
+Jeep Liberty: 16 city / 22 hwy, $24,142 - $29,664
+Jeep Patriot: 23 city / 29 hwy, $16,830 - $25,869
+Land Rover LR4: 12 city / 17 hwy, $48,688 - $48,688
+Land Rover Range Rover: 12 city / 18 hwy, $76,382 - $91,033
+Land Rover Range Rover Evoque: 18 city / 28 hwy, $41,443 - $43,619
+Kia Forte: 25 city / 34 hwy, $16,213 - $20,399
+Kia Optima: 24 city / 35 hwy, $20,092 - $26,556
+Kia Optima Hybrid: 35 city / 40 hwy, $25,776 - $25,776
+Kia Rio: 30 city / 40 hwy, $14,171 - $18,237
+Kia Sedona: 18 city / 25 hwy, $25,944 - $29,459
+Kia Sorento: 22 city / 32 hwy, $24,080 - $34,446
+Kia Soul: 27 city / 35 hwy, $14,717 - $20,509
+Jaguar XF: 16 city / 23 hwy, $50,821 - $78,184
+Infiniti EX35: 17 city / 24 hwy, $34,461 - $37,942
+Infiniti FX: 16 city / 23 hwy, $41,733 - $58,403
+Infiniti G: 20 city / 29 hwy, $30,888 - $48,546
+Infiniti M: 18 city / 26 hwy, $44,424 - $59,995
+Infiniti M Hybrid: 27 city / 32 hwy, $50,715 - $50,715
+Hyundai Accent: 30 city / 40 hwy, $14,545 - $17,095(MSRP)
+Hyundai Azera: 20 city / 29 hwy, $31,899 - $31,899
+Hyundai Elantra: 29 city / 40 hwy, $17,089 - $21,262
+Hyundai Elantra Touring: 23 city / 31 hwy, $15,995 - $20,295(MSRP)
+Hyundai Equus: 16 city / 24 hwy, $57,204 - $63,858
+Hyundai Genesis: 19 city / 29 hwy, $33,445 - $44,814
+Hyundai Genesis Coupe: 21 city / 30 hwy, $24,589 - $34,260
+Hyundai Santa Fe: 20 city / 28 hwy, $23,371 - $30,480
+Hyundai Sonata: 24 city / 35 hwy, $19,917 - $27,904
+Hyundai Sonata Hybrid: 35 city / 40 hwy, $25,609 - $25,609
+Hyundai Tucson: 22 city / 30 hwy, $19,742 - $26,772
+Hyundai Veloster: 28 city / 40 hwy, $18,002 - $19,247
+Honda Accord: 23 city / 34 hwy, $20,571 - $30,429
+Honda Accord Crosstour: 18 city / 27 hwy, $28,891 - $34,635
+Honda Civic: 28 city / 36 hwy, $15,721 - $28,181
+Honda Civic Hybrid: 44 city / 44 hwy, $23,835 - $26,411
+Honda CR-V: 23 city / 31 hwy, $22,867 - $30,230
+Honda CR-Z: 31 city / 37 hwy, $20,766 - $24,832
+Honda Fit: 27 city / 33 hwy, $16,074 - $20,429
+Honda Insight: 41 city / 44 hwy, $19,086 - $24,222
+Honda Odyssey: 18 city / 27 hwy, $27,165 - $41,540
+Honda Pilot: 18 city / 25 hwy, $27,755 - $39,409
+Ford E Series: 13 city / 17 hwy, $26,632 - $35,114
+Ford Edge: 19 city / 27 hwy, $28,017 - $37,886
+Ford Escape: 22 city / 31 hwy, $23,030 - $32,093
+Ford Escape Hybrid: 34 city / 31 hwy, $30,570 - $34,830(MSRP)
+Ford Expedition: 14 city / 20 hwy, $35,900 - $50,898
+Ford Explorer: 18 city / 25 hwy, $28,884 - $38,858
+Ford F-150: 17 city / 23 hwy, $23,849 - $50,201
+Ford Fiesta: 28 city / 38 hwy, $13,200 - $18,200(MSRP)
+Ford Flex: 16 city / 23 hwy, $29,298 - $42,161
+Ford Focus: 26 city / 36 hwy, $16,962 - $22,573
+Ford Fusion: 22 city / 29 hwy, $20,989 - $28,722
+Ford Fusion Hybrid: 41 city / 36 hwy, $28,248 - $28,248
+Ford Mustang: 19 city / 29 hwy, $22,430 - $52,113
+Ford Super Duty: NA city / NA hwy, $28,353 - $62,068
+Ford Taurus: 19 city / 29 hwy, $26,190 - $34,046
+GMC Acadia: 17 city / 24 hwy, $33,118 - $46,806
+GMC Canyon: 18 city / 25 hwy, $18,339 - $32,367
+GMC Savana: 13 city / 17 hwy, $25,515 - $45,726
+GMC Sierra 1500: 15 city / 20 hwy, $23,179 - $48,555
+GMC Sierra 1500 Hybrid: 20 city / 23 hwy, $39,879 - $49,504
+GMC Sierra HD: NA city / NA hwy, $28,415 - $47,685(MSRP)
+GMC Terrain: 22 city / 32 hwy, $25,939 - $33,261
+GMC Yukon: 15 city / 21 hwy, $39,716 - $59,630
+Dodge Avenger: 21 city / 30 hwy, $20,458 - $26,653
+Dodge Caliber: 24 city / 32 hwy, $18,010 - $19,377
+Dodge Challenger: 17 city / 25 hwy, $25,977 - $30,172
+Dodge Charger: 18 city / 27 hwy, $26,328 - $32,375
+Dodge Durango: 16 city / 23 hwy, $29,011 - $42,700
+Dodge Grand Caravan: 17 city / 25 hwy, $22,150 - $30,688
+Chrysler 200: 19 city / 29 hwy, $19,701 - $32,374
+Chrysler 300: 18 city / 27 hwy, $28,368 - $48,060
+Cadillac CTS: 16 city / 26 hwy, $36,297 - $50,168
+Cadillac CTS Sport Wagon: 18 city / 27 hwy, $39,011 - $51,272
+Cadillac Escalade: 14 city / 18 hwy, $62,219 - $83,481
+Cadillac Escalade EXT: 13 city / 18 hwy, $62,410 - $68,800
+Cadillac Escalade Hybrid: 20 city / 23 hwy, $72,487 - $84,125
+Chevrolet Avalanche: 15 city / 21 hwy, $36,705 - $49,710
+Chevrolet Camaro: 17 city / 28 hwy, $24,145 - $41,408
+Chevrolet Colorado: 18 city / 25 hwy, $18,125 - $30,706
+Chevrolet Corvette: 16 city / 26 hwy, $47,886 - $57,329
+Chevrolet Cruze: 25 city / 36 hwy, $17,465 - $23,673
+Chevrolet Equinox: 22 city / 32 hwy, $23,973 - $31,292
+Chevrolet Express: 15 city / 20 hwy, $25,117 - $45,795
+Chevrolet Impala: 18 city / 30 hwy, $26,610 - $31,000
+Chevrolet Malibu: 22 city / 33 hwy, $22,740 - $30,421
+Chevrolet Silverado 1500: 15 city / 20 hwy, $23,220 - $42,507
+Chevrolet Silverado 1500 Hybrid: 20 city / 23 hwy, $40,080 - $49,922
+Chevrolet Silverado HD: NA city / NA hwy, $29,813 - $46,304
+Chevrolet Sonic: 26 city / 35 hwy, $14,795 - $19,195
+Chevrolet Suburban: 15 city / 21 hwy, $41,711 - $56,997
+Chevrolet Tahoe: 15 city / 21 hwy, $38,359 - $55,001
+Chevrolet Tahoe Hybrid: 20 city / 23 hwy, $51,816 - $54,585
+Chevrolet Traverse: 17 city / 24 hwy, $29,996 - $41,136
+BMW 1-Series: 18 city / 28 hwy, $30,838 - $43,528
+BMW 3-Series: 23 city / 34 hwy, $34,371 - $58,663
+BMW 3-Series Wagon: 17 city / 26 hwy, $36,633 - $38,553
+BMW 5-Series: 22 city / 32 hwy, $45,072 - $65,560
+BMW 5-Series Hybrid: NA city / NA hwy, $60,950 - $60,950(MSRP)
+BMW 7-Series: 17 city / 25 hwy, $67,800 - $130,188
+BMW 7-Series Hybrid: 17 city / 24 hwy, $92,534 - $96,297
+BMW M3: 14 city / 20 hwy, $58,944 - $67,195
+BMW X3: 19 city / 25 hwy, $36,088 - $41,408
+BMW X5: 14 city / 20 hwy, $45,036 - $60,559
+BMW X6: 16 city / 23 hwy, $59,600 - $70,200(MSRP)
+Buick Enclave: 17 city / 24 hwy, $36,693 - $45,782
+Buick LaCrosse: 25 city / 36 hwy, $30,685 - $39,286
+Buick Regal: 19 city / 31 hwy, $27,506 - $35,123
+Audi A3: 21 city / 30 hwy, $27,532 - $31,044
+Audi A4: 21 city / 31 hwy, $32,054 - $34,081
+Audi A4 Wagon: 21 city / 29 hwy, $35,839 - $35,839
+Audi A5: 21 city / 31 hwy, $36,859 - $44,103
+Audi A6: 19 city / 28 hwy, $41,159 - $49,139
+Audi A7: 18 city / 28 hwy, $57,915 - $57,915
+Audi A8: 18 city / 28 hwy, $75,572 - $130,647
+Audi Q5: 20 city / 27 hwy, $35,631 - $42,893
+Audi Q7: 16 city / 22 hwy, $46,511 - $60,036
+Audi R8: 13 city / 19 hwy, $113,661 - $194,816
+Acura ILX: 24 city / 35 hwy, $26,862 - $35,385
+Acura MDX: 16 city / 21 hwy, $40,664 - $51,333
+Acura RDX: 20 city / 28 hwy, $35,184 - $40,291
+Acura RL: 17 city / 24 hwy, $46,388 - $53,890
+Acura TL: 20 city / 29 hwy, $33,749 - $42,501
+Acura TSX: 22 city / 31 hwy, $28,971 - $37,156
+Acura TSX Sportwagon: 22 city / 30 hwy, $30,405 - $33,846
+Mercedes Benz G-Class: 12 city / 15 hwy, $104,060 - $104,060
+Mercedes-Benz C-Class: 21 city / 31 hwy, $33,041 - $41,151
+Mercedes-Benz CLS: 17 city / 25 hwy, $68,976 - $71,417
+Mercedes-Benz E-Class: 20 city / 30 hwy, $47,356 - $55,960
+Mercedes-Benz E-Class Coupe: 19 city / 28 hwy, $48,021 - $61,972
+Mercedes-Benz GL: 13 city / 18 hwy, $57,658 - $79,573
+Mercedes-Benz GLK-Class: 16 city / 22 hwy, $35,500 - $37,500(MSRP)
+Mercedes-Benz M-Class: 17 city / 22 hwy, $47,849 - $49,288
+Mercedes-Benz R-Class: 16 city / 21 hwy, $50,320 - $51,401
+Mercedes-Benz S-Class: 15 city / 25 hwy, $87,189 - $149,639
+Mercedes-Benz S-Class Hybrid: 19 city / 25 hwy, $86,509 - $86,509
+Mercedes-Benz SL: 16 city / 24 hwy, $105,633 - $105,633
+Nissan 370Z: 18 city / 26 hwy, $31,936 - $43,867
+Nissan Altima: NA city / NA hwy, $21,500 - $30,080(MSRP)
+Nissan Armada: 12 city / 18 hwy, $38,244 - $52,505
+Nissan Cube: 25 city / 30 hwy, $15,663 - $19,342
+Nissan Frontier: 14 city / 19 hwy, $19,518 - $32,755
+Nissan GT-R: 16 city / 23 hwy, $89,950 - $95,100(MSRP)
+Nissan Juke: 27 city / 32 hwy, $20,481 - $26,442
+Nissan Leaf: NA city / NA hwy, $35,539 - $37,561
+Nissan Maxima: 19 city / 26 hwy, $31,825 - $34,402
+Nissan Murano: 18 city / 23 hwy, $29,408 - $43,310
+Nissan NV: NA city / NA hwy, $25,323 - $30,331
+Nissan Pathfinder: 13 city / 18 hwy, $29,763 - $43,797
+Nissan Quest: 19 city / 24 hwy, $27,268 - $41,372
+Nissan Rogue: 23 city / 28 hwy, $22,517 - $29,712
+Nissan Sentra: 24 city / 31 hwy, $16,746 - $21,434
+Nissan Titan: 13 city / 18 hwy, $28,411 - $40,519
+Nissan Versa: 27 city / 36 hwy, $11,758 - $16,755
